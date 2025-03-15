@@ -1,0 +1,12 @@
+streamlit
+torch
+torchvision
+transformers
+timm
+fairlearn
+aif360
+shap
+matplotlib
+opencv-python-headless
+pandas
+joblib
